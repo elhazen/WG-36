@@ -5,22 +5,18 @@ tabledir="~/Dropbox/Documents/R/IEA/IEA-thresholds/data/output"
 setwd(tabledir)
 
 # prepare the data
-ccALL.old<-read.csv("~/Dropbox/Documents/R/IEA/IEA-thresholds/data/Indicator data for workshop 2015- coastwide.csv")
+
 ccALL<-read.csv("~/Dropbox/Documents/R/IEA/IEA-thresholds/data/coastwide data for reference points.csv")
-#UNIX DIR
-#ccALL<-read.csv("/home/ehazen/R/IEA/data/Indicator data for workshop 2015- coastwide.csv")
-#ccALL<-read.csv("/home/ehazen/R/IEA/data/coastwide data for reference points.csv")
 
 ccALL$year <- as.numeric(ccALL$year)
 ccALL$timeseries <- gsub("\\(", "", ccALL$timeseries)
 ccALL$timeseries <- gsub("\\)", "", ccALL$timeseries)
 ccALL$timeseries <- gsub(" ", "_", ccALL$timeseries)
 ccALL$timeseries <- gsub("_-_", "_", ccALL$timeseries)
-#
+
 # Wide df with columns as variables
 dat.full <- dcast(ccALL, year ~ timeseries, value.var = "value")
-#dat.types <- dcast(ccALL, Ecological.Oceanographic.or.Human.activities ~ timeseries, value.var = "value")
-#dat.red1 <- dat.full[,c("year","Coastal_engineering","Nutrients","Inorganic_pollution","Commercial_landings_of_all_fisheries","NOI_summer","NOI_winter","PDO_summer","PDO_winter","NPGO_summer","NPGO_winter","GF_spp_richness_coastwide","GF-Simp_coastwide","Scav_ratio_coastwide","GF_MTL_coastwide","Cop_Spp_Rich_Anom_summer","Cop_Spp_Rich_Anom-_winter","California_sea_lion_pup_production")]
+
 dat.red1 <- dat.full
 for (i in 1:dim(dat.red1)[2]) dat.red1[,i]<-as.numeric(dat.red1[,i])
 
@@ -133,7 +129,7 @@ cntl.list = list(minit=200, maxit=100000, allow.degen=FALSE, safe=TRUE, trace=1)
 }
 
 ###################################################
-### Kir's plotting code
+### Kirstin Holsman's plotting code!!
 ###################################################
 year<-indat$year[yrs]
 
@@ -359,7 +355,7 @@ dev.off()
 
 
 ####################################################
-### KIR PLOTS
+### More plots from Kirstin Holsman.
 ####################################################
 
 
