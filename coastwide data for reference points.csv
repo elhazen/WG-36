@@ -1,0 +1,885 @@
+year,value,Upper confidence interval,Lower confidence interval,metric,timeseries,Ecological Oceanographic or Human activities
+1997,0.0122,NA,NA,Predicted daily growth rate,CA Sea lion pup growth,ecological
+1998,0.0785,NA,NA,Predicted daily growth rate,CA Sea lion pup growth,ecological
+1999,0.0761,NA,NA,Predicted daily growth rate,CA Sea lion pup growth,ecological
+2000,0.0787,NA,NA,Predicted daily growth rate,CA Sea lion pup growth,ecological
+2001,0.0942,NA,NA,Predicted daily growth rate,CA Sea lion pup growth,ecological
+2002,0.0427,NA,NA,Predicted daily growth rate,CA Sea lion pup growth,ecological
+2003,0.0798,NA,NA,Predicted daily growth rate,CA Sea lion pup growth,ecological
+2004,0.0717,NA,NA,Predicted daily growth rate,CA Sea lion pup growth,ecological
+2005,0.083,NA,NA,Predicted daily growth rate,CA Sea lion pup growth,ecological
+2006,0.0664,NA,NA,Predicted daily growth rate,CA Sea lion pup growth,ecological
+2007,0.0764,NA,NA,Predicted daily growth rate,CA Sea lion pup growth,ecological
+2008,0.0565,NA,NA,Predicted daily growth rate,CA Sea lion pup growth,ecological
+2009,0.0639,NA,NA,Predicted daily growth rate,CA Sea lion pup growth,ecological
+2010,0.0868,NA,NA,Predicted daily growth rate,CA Sea lion pup growth,ecological
+2011,0.06192,NA,NA,Predicted daily growth rate,CA Sea lion pup growth,ecological
+2012,0.0161,NA,NA,Predicted daily growth rate,CA Sea lion pup growth,ecological
+2013,0.0583,NA,NA,Predicted daily growth rate,CA Sea lion pup growth,ecological
+2014,0.012,NA,NA,Predicted daily growth rate,CA Sea lion pup growth,ecological
+1997,18.986,19.0695,18.9025,Mean live pups (thousands),CA sea lion pup production,ecological
+1998,9.154,9.209565,9.098435,Mean live pups (thousands),CA sea lion pup production,ecological
+1999,19.577,19.71704,19.43696,Mean live pups (thousands),CA sea lion pup production,ecological
+2000,19.161,19.24429,19.07771,Mean live pups (thousands),CA sea lion pup production,ecological
+2001,19.019,19.103,18.935,Mean live pups (thousands),CA sea lion pup production,ecological
+2002,20.826,20.90336,20.74864,Mean live pups (thousands),CA sea lion pup production,ecological
+2003,16.302,16.40669,16.19731,Mean live pups (thousands),CA sea lion pup production,ecological
+2004,18.212,18.33347,18.09053,Mean live pups (thousands),CA sea lion pup production,ecological
+2005,20.372,20.42374,20.32026,Mean live pups (thousands),CA sea lion pup production,ecological
+2006,19.695,19.78242,19.60758,Mean live pups (thousands),CA sea lion pup production,ecological
+2007,24.126,24.3393,23.9127,Mean live pups (thousands),CA sea lion pup production,ecological
+2008,24.718,25.35975,24.07625,Mean live pups (thousands),CA sea lion pup production,ecological
+2009,12.018,12.20778,11.82822,Mean live pups (thousands),CA sea lion pup production,ecological
+2010,14.258,14.4732,14.0428,Mean live pups (thousands),CA sea lion pup production,ecological
+2011,26.002,26.70678,25.29722,Mean live pups (thousands),CA sea lion pup production,ecological
+2012,24.993,25.27964,24.70636,Mean live pups (thousands),CA sea lion pup production,ecological
+2013,18.375,18.67862,18.07138,Mean live pups (thousands),CA sea lion pup production,ecological
+2014,22.362,23.08156,21.64244,Mean live pups (thousands),CA sea lion pup production,ecological
+2003,3.716645658,3.725265013,3.708026303,Mean trophic level,GF MTL coastwide,ecological
+2004,3.721617853,3.730698264,3.712537442,Mean trophic level,GF MTL coastwide,ecological
+2005,3.694792396,3.702388807,3.687195986,Mean trophic level,GF MTL coastwide,ecological
+2006,3.705939276,3.713905704,3.697972847,Mean trophic level,GF MTL coastwide,ecological
+2007,3.685982057,3.693148256,3.678815859,Mean trophic level,GF MTL coastwide,ecological
+2008,3.664622752,3.67170258,3.657542924,Mean trophic level,GF MTL coastwide,ecological
+2009,3.65346179,3.659848915,3.647074665,Mean trophic level,GF MTL coastwide,ecological
+2010,3.644366063,3.650790735,3.637941391,Mean trophic level,GF MTL coastwide,ecological
+2011,3.659759332,3.666077702,3.653440962,Mean trophic level,GF MTL coastwide,ecological
+2012,3.645705851,3.652448528,3.638963175,Mean trophic level,GF MTL coastwide,ecological
+2013,3.650779773,3.658578477,3.64298107,Mean trophic level,GF MTL coastwide,ecological
+2003,44.05576234,NA,NA,Spp per 12 trawls,GF spp density -coastwide,ecological
+2004,43.54889027,NA,NA,Spp per 12 trawls,GF spp density -coastwide,ecological
+2005,44.1078136,NA,NA,Spp per 12 trawls,GF spp density -coastwide,ecological
+2006,44.85988373,NA,NA,Spp per 12 trawls,GF spp density -coastwide,ecological
+2007,42.45362978,NA,NA,Spp per 12 trawls,GF spp density -coastwide,ecological
+2008,42.98902513,NA,NA,Spp per 12 trawls,GF spp density -coastwide,ecological
+2009,44.02945848,NA,NA,Spp per 12 trawls,GF spp density -coastwide,ecological
+2010,44.29645782,NA,NA,Spp per 12 trawls,GF spp density -coastwide,ecological
+2011,43.85335208,NA,NA,Spp per 12 trawls,GF spp density -coastwide,ecological
+2012,42.94700737,NA,NA,Spp per 12 trawls,GF spp density -coastwide,ecological
+2013,42.96323594,NA,NA,Spp per 12 trawls,GF spp density -coastwide,ecological
+2003,27.73622194,NA,NA,Spp per 3900 indiv.,GF spp richness - coastwide,ecological
+2004,28.96234458,NA,NA,Spp per 3900 indiv.,GF spp richness - coastwide,ecological
+2005,29.96541127,NA,NA,Spp per 3900 indiv.,GF spp richness - coastwide,ecological
+2006,31.33321013,NA,NA,Spp per 3900 indiv.,GF spp richness - coastwide,ecological
+2007,31.57666731,NA,NA,Spp per 3900 indiv.,GF spp richness - coastwide,ecological
+2008,31.35832761,NA,NA,Spp per 3900 indiv.,GF spp richness - coastwide,ecological
+2009,32.69200263,NA,NA,Spp per 3900 indiv.,GF spp richness - coastwide,ecological
+2010,32.56390773,NA,NA,Spp per 3900 indiv.,GF spp richness - coastwide,ecological
+2011,32.21858766,NA,NA,Spp per 3900 indiv.,GF spp richness - coastwide,ecological
+2012,29.31773048,NA,NA,Spp per 3900 indiv.,GF spp richness - coastwide,ecological
+2013,28.42601297,NA,NA,Spp per 3900 indiv.,GF spp richness - coastwide,ecological
+2003,0.699968348,NA,NA,1-lambda,GF-Simp - coastwide,ecological
+2004,0.715730557,NA,NA,1-lambda,GF-Simp - coastwide,ecological
+2005,0.705382273,NA,NA,1-lambda,GF-Simp - coastwide,ecological
+2006,0.680352172,NA,NA,1-lambda,GF-Simp - coastwide,ecological
+2007,0.694070031,NA,NA,1-lambda,GF-Simp - coastwide,ecological
+2008,0.66815576,NA,NA,1-lambda,GF-Simp - coastwide,ecological
+2009,0.668511117,NA,NA,1-lambda,GF-Simp - coastwide,ecological
+2010,0.711317299,NA,NA,1-lambda,GF-Simp - coastwide,ecological
+2011,0.7182424,NA,NA,1-lambda,GF-Simp - coastwide,ecological
+2012,0.680052133,NA,NA,1-lambda,GF-Simp - coastwide,ecological
+1996,-0.365971025,NA,NA,Anomaly,N Cop Anom - summer,ecological
+1997,-0.368551317,NA,NA,Anomaly,N Cop Anom - summer,ecological
+1998,-0.578439681,NA,NA,Anomaly,N Cop Anom - summer,ecological
+1999,0.094624245,NA,NA,Anomaly,N Cop Anom - summer,ecological
+2000,0.187179357,NA,NA,Anomaly,N Cop Anom - summer,ecological
+2001,0.147731087,NA,NA,Anomaly,N Cop Anom - summer,ecological
+2002,0.279571839,NA,NA,Anomaly,N Cop Anom - summer,ecological
+2003,-0.075199172,NA,NA,Anomaly,N Cop Anom - summer,ecological
+2004,0.054233801,NA,NA,Anomaly,N Cop Anom - summer,ecological
+2005,-0.773871896,NA,NA,Anomaly,N Cop Anom - summer,ecological
+2006,0.140131558,NA,NA,Anomaly,N Cop Anom - summer,ecological
+2007,0.136010073,NA,NA,Anomaly,N Cop Anom - summer,ecological
+2008,0.310959645,NA,NA,Anomaly,N Cop Anom - summer,ecological
+2009,0.136154111,NA,NA,Anomaly,N Cop Anom - summer,ecological
+2010,0.252936549,NA,NA,Anomaly,N Cop Anom - summer,ecological
+2011,0.422500829,NA,NA,Anomaly,N Cop Anom - summer,ecological
+2012,0.404170792,NA,NA,Anomaly,N Cop Anom - summer,ecological
+2013,0.354923414,NA,NA,Anomaly,N Cop Anom - summer,ecological
+1996,0.138144514,NA,NA,Anomaly,N Cop Anom - winter,ecological
+1997,-0.451471219,NA,NA,Anomaly,N Cop Anom - winter,ecological
+1998,-0.55349403,NA,NA,Anomaly,N Cop Anom - winter,ecological
+1999,-0.069305277,NA,NA,Anomaly,N Cop Anom - winter,ecological
+2000,-0.014313792,NA,NA,Anomaly,N Cop Anom - winter,ecological
+2001,0.313843674,NA,NA,Anomaly,N Cop Anom - winter,ecological
+2002,0.351764031,NA,NA,Anomaly,N Cop Anom - winter,ecological
+2003,-0.043238629,NA,NA,Anomaly,N Cop Anom - winter,ecological
+2004,-0.342974965,NA,NA,Anomaly,N Cop Anom - winter,ecological
+2005,-0.316735297,NA,NA,Anomaly,N Cop Anom - winter,ecological
+2006,-0.135753689,NA,NA,Anomaly,N Cop Anom - winter,ecological
+2007,0.13366956,NA,NA,Anomaly,N Cop Anom - winter,ecological
+2008,0.4256657,NA,NA,Anomaly,N Cop Anom - winter,ecological
+2009,0.253120149,NA,NA,Anomaly,N Cop Anom - winter,ecological
+2010,-0.172796002,NA,NA,Anomaly,N Cop Anom - winter,ecological
+2011,0.440051355,NA,NA,Anomaly,N Cop Anom - winter,ecological
+2012,0.412770811,NA,NA,Anomaly,N Cop Anom - winter,ecological
+2013,0.299776334,NA,NA,Anomaly,N Cop Anom - winter,ecological
+2003,0.218001499,0.232232681,0.203770317,Ratio,Scav ratio - coastwide,ecological
+2004,0.196389251,0.209915575,0.182862927,Ratio,Scav ratio - coastwide,ecological
+2005,0.221354927,0.23345367,0.209256183,Ratio,Scav ratio - coastwide,ecological
+2006,0.213848405,0.226320798,0.201376013,Ratio,Scav ratio - coastwide,ecological
+2007,0.209552247,0.221438006,0.197666487,Ratio,Scav ratio - coastwide,ecological
+2008,0.218253784,0.230145855,0.206361714,Ratio,Scav ratio - coastwide,ecological
+2009,0.235051819,0.246580707,0.223522932,Ratio,Scav ratio - coastwide,ecological
+2010,0.273098688,0.284627268,0.261570107,Ratio,Scav ratio - coastwide,ecological
+2011,0.254436065,0.265679052,0.243193079,Ratio,Scav ratio - coastwide,ecological
+2012,0.247447144,0.258693848,0.23620044,Ratio,Scav ratio - coastwide,ecological
+2013,0.207985393,0.222210077,0.19376071,Ratio,Scav ratio - coastwide,ecological
+1994,0.293176471,NA,NA,Mean concentration (mg/L),Atmospheric pollution,human activities
+1995,0.223105263,NA,NA,Mean concentration (mg/L),Atmospheric pollution,human activities
+1996,0.202823529,NA,NA,Mean concentration (mg/L),Atmospheric pollution,human activities
+1997,0.247333333,NA,NA,Mean concentration (mg/L),Atmospheric pollution,human activities
+1998,0.2625,NA,NA,Mean concentration (mg/L),Atmospheric pollution,human activities
+1999,0.270375,NA,NA,Mean concentration (mg/L),Atmospheric pollution,human activities
+2000,0.30075,NA,NA,Mean concentration (mg/L),Atmospheric pollution,human activities
+2001,0.277294118,NA,NA,Mean concentration (mg/L),Atmospheric pollution,human activities
+2002,0.253,NA,NA,Mean concentration (mg/L),Atmospheric pollution,human activities
+2003,0.230833333,NA,NA,Mean concentration (mg/L),Atmospheric pollution,human activities
+2004,0.250047619,NA,NA,Mean concentration (mg/L),Atmospheric pollution,human activities
+2005,0.255941176,NA,NA,Mean concentration (mg/L),Atmospheric pollution,human activities
+2006,0.236705882,NA,NA,Mean concentration (mg/L),Atmospheric pollution,human activities
+2007,0.242473684,NA,NA,Mean concentration (mg/L),Atmospheric pollution,human activities
+2008,0.246833333,NA,NA,Mean concentration (mg/L),Atmospheric pollution,human activities
+2009,0.259,NA,NA,Mean concentration (mg/L),Atmospheric pollution,human activities
+2010,0.210555556,NA,NA,Mean concentration (mg/L),Atmospheric pollution,human activities
+2011,0.233,NA,NA,Mean concentration (mg/L),Atmospheric pollution,human activities
+2012,0.215,NA,NA,Mean concentration (mg/L),Atmospheric pollution,human activities
+2013,0.279,NA,NA,Mean concentration (mg/L),Atmospheric pollution,human activities
+2014,0.185,NA,NA,Mean concentration (mg/L),Atmospheric pollution,human activities
+2001,14.65716658,NA,NA,Millions of kilometers,Commercial shipping activity,human activities
+2002,15.38083668,NA,NA,Millions of kilometers,Commercial shipping activity,human activities
+2003,15.56103475,NA,NA,Millions of kilometers,Commercial shipping activity,human activities
+2004,16.06366804,NA,NA,Millions of kilometers,Commercial shipping activity,human activities
+2005,16.2058027,NA,NA,Millions of kilometers,Commercial shipping activity,human activities
+2006,17.27671671,NA,NA,Millions of kilometers,Commercial shipping activity,human activities
+2007,16.8533765,NA,NA,Millions of kilometers,Commercial shipping activity,human activities
+2008,15.98849594,NA,NA,Millions of kilometers,Commercial shipping activity,human activities
+2009,13.77700481,NA,NA,Millions of kilometers,Commercial shipping activity,human activities
+2010,13.81561086,NA,NA,Millions of kilometers,Commercial shipping activity,human activities
+2011,14.57620618,NA,NA,Millions of kilometers,Commercial shipping activity,human activities
+2012,14.15195795,NA,NA,Millions of kilometers,Commercial shipping activity,human activities
+1997,14.15764382,NA,NA,Millions of cubic meters,Dredging,human activities
+1998,12.68144359,NA,NA,Millions of cubic meters,Dredging,human activities
+1999,16.4138238,NA,NA,Millions of cubic meters,Dredging,human activities
+2000,16.43692253,NA,NA,Millions of cubic meters,Dredging,human activities
+2001,12.29353216,NA,NA,Millions of cubic meters,Dredging,human activities
+2002,8.573424589,NA,NA,Millions of cubic meters,Dredging,human activities
+2003,8.342212496,NA,NA,Millions of cubic meters,Dredging,human activities
+2004,12.1408085,NA,NA,Millions of cubic meters,Dredging,human activities
+2005,8.812383151,NA,NA,Millions of cubic meters,Dredging,human activities
+2006,12.07706833,NA,NA,Millions of cubic meters,Dredging,human activities
+2007,16.8917608,NA,NA,Millions of cubic meters,Dredging,human activities
+2008,3.852990263,NA,NA,Millions of cubic meters,Dredging,human activities
+2009,14.44647047,NA,NA,Millions of cubic meters,Dredging,human activities
+2010,9.796372899,NA,NA,Millions of cubic meters,Dredging,human activities
+2011,8.448435925,NA,NA,Millions of cubic meters,Dredging,human activities
+2012,10.24674311,NA,NA,Millions of cubic meters,Dredging,human activities
+2013,8.059257624,NA,NA,Millions of cubic meters,Dredging,human activities
+2014,6.3541038,NA,NA,Millions of cubic meters,Dredging,human activities
+1981,226771.7,NA,NA,Landings (metric tons),Groundfish landings (including hake),human activities
+1982,204445.9,NA,NA,Landings (metric tons),Groundfish landings (including hake),human activities
+1983,182063,NA,NA,Landings (metric tons),Groundfish landings (including hake),human activities
+1984,191702.1,NA,NA,Landings (metric tons),Groundfish landings (including hake),human activities
+1985,178936.2,NA,NA,Landings (metric tons),Groundfish landings (including hake),human activities
+1986,237893.9,NA,NA,Landings (metric tons),Groundfish landings (including hake),human activities
+1987,251107.6,NA,NA,Landings (metric tons),Groundfish landings (including hake),human activities
+1988,249337.6,NA,NA,Landings (metric tons),Groundfish landings (including hake),human activities
+1989,297444.5,NA,NA,Landings (metric tons),Groundfish landings (including hake),human activities
+1990,272129.1633,NA,NA,Landings (metric tons),Groundfish landings (including hake),human activities
+1991,315650.1279,NA,NA,Landings (metric tons),Groundfish landings (including hake),human activities
+1992,291310.1885,NA,NA,Landings (metric tons),Groundfish landings (including hake),human activities
+1993,216646.6942,NA,NA,Landings (metric tons),Groundfish landings (including hake),human activities
+1994,318088.5942,NA,NA,Landings (metric tons),Groundfish landings (including hake),human activities
+1995,239705.5756,NA,NA,Landings (metric tons),Groundfish landings (including hake),human activities
+1996,277439.257,NA,NA,Landings (metric tons),Groundfish landings (including hake),human activities
+1997,291274.6273,NA,NA,Landings (metric tons),Groundfish landings (including hake),human activities
+1998,278092.8944,NA,NA,Landings (metric tons),Groundfish landings (including hake),human activities
+1999,269418.0496,NA,NA,Landings (metric tons),Groundfish landings (including hake),human activities
+2000,245860.3577,NA,NA,Landings (metric tons),Groundfish landings (including hake),human activities
+2001,205957.9834,NA,NA,Landings (metric tons),Groundfish landings (including hake),human activities
+2002,162100.3968,NA,NA,Landings (metric tons),Groundfish landings (including hake),human activities
+2003,171546.1583,NA,NA,Landings (metric tons),Groundfish landings (including hake),human activities
+2004,244479.3796,NA,NA,Landings (metric tons),Groundfish landings (including hake),human activities
+2005,288031.057,NA,NA,Landings (metric tons),Groundfish landings (including hake),human activities
+2006,291795.2153,NA,NA,Landings (metric tons),Groundfish landings (including hake),human activities
+2007,244364.4166,NA,NA,Landings (metric tons),Groundfish landings (including hake),human activities
+2008,279522.1353,NA,NA,Landings (metric tons),Groundfish landings (including hake),human activities
+2009,155029.0361,NA,NA,Landings (metric tons),Groundfish landings (including hake),human activities
+2010,201006.429,NA,NA,Landings (metric tons),Groundfish landings (including hake),human activities
+2011,257736.9186,NA,NA,Landings (metric tons),Groundfish landings (including hake),human activities
+2012,184609.7846,NA,NA,Landings (metric tons),Groundfish landings (including hake),human activities
+2013,258741.4516,NA,NA,Landings (metric tons),Groundfish landings (including hake),human activities
+2014,298140,NA,NA,Landings (metric tons),Groundfish landings (including hake),human activities
+1999,373320,NA,NA,Distance disturbed (km),Habitat modification,human activities
+2000,299727,NA,NA,Distance disturbed (km),Habitat modification,human activities
+2001,297718,NA,NA,Distance disturbed (km),Habitat modification,human activities
+2002,283060,NA,NA,Distance disturbed (km),Habitat modification,human activities
+2003,254692,NA,NA,Distance disturbed (km),Habitat modification,human activities
+2004,207189,NA,NA,Distance disturbed (km),Habitat modification,human activities
+2005,227297,NA,NA,Distance disturbed (km),Habitat modification,human activities
+2006,227833,NA,NA,Distance disturbed (km),Habitat modification,human activities
+2007,233287,NA,NA,Distance disturbed (km),Habitat modification,human activities
+2008,254586,NA,NA,Distance disturbed (km),Habitat modification,human activities
+2009,287386,NA,NA,Distance disturbed (km),Habitat modification,human activities
+2010,239220,NA,NA,Distance disturbed (km),Habitat modification,human activities
+2011,139423,NA,NA,Distance disturbed (km),Habitat modification,human activities
+2012,134770,NA,NA,Distance disturbed (km),Habitat modification,human activities
+1988,0.380145056,NA,NA,Normalized index,Inorganic pollution,human activities
+1989,-0.255814798,NA,NA,Normalized index,Inorganic pollution,human activities
+1990,0.143325373,NA,NA,Normalized index,Inorganic pollution,human activities
+1991,-0.183150025,NA,NA,Normalized index,Inorganic pollution,human activities
+1992,-0.24442919,NA,NA,Normalized index,Inorganic pollution,human activities
+1993,-1.213091383,NA,NA,Normalized index,Inorganic pollution,human activities
+1994,-1.561818378,NA,NA,Normalized index,Inorganic pollution,human activities
+1995,-0.021818257,NA,NA,Normalized index,Inorganic pollution,human activities
+1996,1.03449077,NA,NA,Normalized index,Inorganic pollution,human activities
+1997,1.922160832,NA,NA,Normalized index,Inorganic pollution,human activities
+1998,0.188025425,NA,NA,Normalized index,Inorganic pollution,human activities
+1999,-0.150772576,NA,NA,Normalized index,Inorganic pollution,human activities
+2000,1.286887256,NA,NA,Normalized index,Inorganic pollution,human activities
+2001,-1.34066143,NA,NA,Normalized index,Inorganic pollution,human activities
+2002,-2.569387555,NA,NA,Normalized index,Inorganic pollution,human activities
+2003,-0.821935601,NA,NA,Normalized index,Inorganic pollution,human activities
+2004,0.116268046,NA,NA,Normalized index,Inorganic pollution,human activities
+2005,0.345394176,NA,NA,Normalized index,Inorganic pollution,human activities
+2006,0.073939175,NA,NA,Normalized index,Inorganic pollution,human activities
+2007,1.043815363,NA,NA,Normalized index,Inorganic pollution,human activities
+2008,0.788783916,NA,NA,Normalized index,Inorganic pollution,human activities
+2009,-0.132558631,NA,NA,Normalized index,Inorganic pollution,human activities
+2010,0.842225418,NA,NA,Normalized index,Inorganic pollution,human activities
+2011,0.70339394,NA,NA,Normalized index,Inorganic pollution,human activities
+2012,-0.373416921,NA,NA,Normalized index,Inorganic pollution,human activities
+1993,638.6662216,NA,NA,Metric tons of cargo (millions),Invasive species,human activities
+1994,628.6817464,NA,NA,Metric tons of cargo (millions),Invasive species,human activities
+1995,654.6698676,NA,NA,Metric tons of cargo (millions),Invasive species,human activities
+1996,622.4430369,NA,NA,Metric tons of cargo (millions),Invasive species,human activities
+1997,588.6377048,NA,NA,Metric tons of cargo (millions),Invasive species,human activities
+1998,553.7600803,NA,NA,Metric tons of cargo (millions),Invasive species,human activities
+1999,569.6240198,NA,NA,Metric tons of cargo (millions),Invasive species,human activities
+2000,604.9978744,NA,NA,Metric tons of cargo (millions),Invasive species,human activities
+2001,586.7208234,NA,NA,Metric tons of cargo (millions),Invasive species,human activities
+2002,568.2124403,NA,NA,Metric tons of cargo (millions),Invasive species,human activities
+2003,587.8711337,NA,NA,Metric tons of cargo (millions),Invasive species,human activities
+2004,644.9457544,NA,NA,Metric tons of cargo (millions),Invasive species,human activities
+2005,658.3947682,NA,NA,Metric tons of cargo (millions),Invasive species,human activities
+2006,689.2880373,NA,NA,Metric tons of cargo (millions),Invasive species,human activities
+2007,698.213828,NA,NA,Metric tons of cargo (millions),Invasive species,human activities
+2008,664.5345945,NA,NA,Metric tons of cargo (millions),Invasive species,human activities
+2009,591.5434175,NA,NA,Metric tons of cargo (millions),Invasive species,human activities
+2010,626.3439313,NA,NA,Metric tons of cargo (millions),Invasive species,human activities
+2011,651.0202634,NA,NA,Metric tons of cargo (millions),Invasive species,human activities
+2012,662.5451383,NA,NA,Metric tons of cargo (millions),Invasive species,human activities
+2013,670.8939595,NA,NA,Metric tons of cargo (millions),Invasive species,human activities
+1945,-1.833480109,-1.6534635,-1.99883351,Normalized sum of N & P,Nutrient input,human activities
+1946,-1.765313665,-1.58702335,-1.9379486,Normalized sum of N & P,Nutrient input,human activities
+1947,-1.687015859,-1.51271516,-1.86381908,Normalized sum of N & P,Nutrient input,human activities
+1948,-1.6089383,-1.44316463,-1.79427434,Normalized sum of N & P,Nutrient input,human activities
+1949,-1.584160456,-1.41013197,-1.76124187,Normalized sum of N & P,Nutrient input,human activities
+1950,-1.568242199,-1.38279802,-1.73390792,Normalized sum of N & P,Nutrient input,human activities
+1951,-1.493077387,-1.31854563,-1.66965554,Normalized sum of N & P,Nutrient input,human activities
+1952,-1.428643288,-1.25811303,-1.60922294,Normalized sum of N & P,Nutrient input,human activities
+1953,-1.387384773,-1.21643862,-1.56754852,Normalized sum of N & P,Nutrient input,human activities
+1954,-1.365618116,-1.19196973,-1.54307964,Normalized sum of N & P,Nutrient input,human activities
+1955,-1.345675709,-1.17461846,-1.52572836,Normalized sum of N & P,Nutrient input,human activities
+1956,-1.358374248,-1.17405798,-1.52516789,Normalized sum of N & P,Nutrient input,human activities
+1957,-1.318045455,-1.14078981,-1.49189972,Normalized sum of N & P,Nutrient input,human activities
+1958,-1.293745043,-1.10117264,-1.45228255,Normalized sum of N & P,Nutrient input,human activities
+1959,-1.15631258,-0.998026,-1.34913591,Normalized sum of N & P,Nutrient input,human activities
+1960,-1.13926772,-0.9593456,-1.3104555,Normalized sum of N & P,Nutrient input,human activities
+1961,-1.09282166,-0.9043617,-1.25547161,Normalized sum of N & P,Nutrient input,human activities
+1962,-0.98874299,-0.80120088,-1.15231078,Normalized sum of N & P,Nutrient input,human activities
+1963,-0.830583716,-0.65328965,-1.00439956,Normalized sum of N & P,Nutrient input,human activities
+1964,-0.663759962,-0.49888598,-0.84999588,Normalized sum of N & P,Nutrient input,human activities
+1965,-0.582379444,-0.38435646,-0.73546636,Normalized sum of N & P,Nutrient input,human activities
+1966,-0.368081469,-0.18594936,-0.53705927,Normalized sum of N & P,Nutrient input,human activities
+1967,-0.118837351,0.03701152,-0.31409838,Normalized sum of N & P,Nutrient input,human activities
+1968,0.025189347,0.18640576,-0.16470414,Normalized sum of N & P,Nutrient input,human activities
+1969,0.12032345,0.28227143,-0.06883847,Normalized sum of N & P,Nutrient input,human activities
+1970,0.130501196,0.32733961,-0.02377029,Normalized sum of N & P,Nutrient input,human activities
+1971,0.298082469,0.45186313,0.10075322,Normalized sum of N & P,Nutrient input,human activities
+1972,0.306281201,0.49509893,0.14398903,Normalized sum of N & P,Nutrient input,human activities
+1973,0.420907162,0.58784728,0.23673737,Normalized sum of N & P,Nutrient input,human activities
+1974,0.521421679,0.64843475,0.29732484,Normalized sum of N & P,Nutrient input,human activities
+1975,0.236386679,0.52780586,0.17669596,Normalized sum of N & P,Nutrient input,human activities
+1976,0.707464413,0.83972085,0.48861094,Normalized sum of N & P,Nutrient input,human activities
+1977,0.889547344,0.98999398,0.63888407,Normalized sum of N & P,Nutrient input,human activities
+1978,0.605357084,0.85987303,0.50876313,Normalized sum of N & P,Nutrient input,human activities
+1979,0.88804175,1.02452897,0.67341906,Normalized sum of N & P,Nutrient input,human activities
+1980,0.872229606,1.04333739,0.69222749,Normalized sum of N & P,Nutrient input,human activities
+1981,0.93985654,1.04554367,0.69443376,Normalized sum of N & P,Nutrient input,human activities
+1982,0.621858423,0.78691966,0.43580975,Normalized sum of N & P,Nutrient input,human activities
+1983,0.159920827,0.48912055,0.13801064,Normalized sum of N & P,Nutrient input,human activities
+1984,0.672821263,0.76490746,0.41379755,Normalized sum of N & P,Nutrient input,human activities
+1985,0.596626053,0.72908913,0.37797923,Normalized sum of N & P,Nutrient input,human activities
+1986,0.349828935,0.53240039,0.18129049,Normalized sum of N & P,Nutrient input,human activities
+1987,0.115715178,0.36190565,0.01079574,Normalized sum of N & P,Nutrient input,human activities
+1988,0.293275926,0.45510713,0.10399723,Normalized sum of N & P,Nutrient input,human activities
+1989,0.315087584,0.49707519,0.14596528,Normalized sum of N & P,Nutrient input,human activities
+1990,0.438401528,0.56305759,0.21194769,Normalized sum of N & P,Nutrient input,human activities
+1991,0.222523222,0.43902449,0.08791458,Normalized sum of N & P,Nutrient input,human activities
+1992,0.270871371,0.467852,0.1167421,Normalized sum of N & P,Nutrient input,human activities
+1993,0.386556615,0.57666577,0.22555586,Normalized sum of N & P,Nutrient input,human activities
+1994,0.555492021,0.73981321,0.3887033,Normalized sum of N & P,Nutrient input,human activities
+1995,0.757041122,0.93568672,0.58457681,Normalized sum of N & P,Nutrient input,human activities
+1996,1.080803582,1.1430982,0.79198829,Normalized sum of N & P,Nutrient input,human activities
+1997,0.726294921,0.92768664,0.57657674,Normalized sum of N & P,Nutrient input,human activities
+1998,0.621563015,0.80872882,0.45761892,Normalized sum of N & P,Nutrient input,human activities
+1999,0.513736658,0.73311659,0.38200668,Normalized sum of N & P,Nutrient input,human activities
+2000,0.627450754,0.82111157,0.47000166,Normalized sum of N & P,Nutrient input,human activities
+2001,0.704495255,0.97669928,0.62558937,Normalized sum of N & P,Nutrient input,human activities
+2002,1.440731724,1.49309689,1.14198698,Normalized sum of N & P,Nutrient input,human activities
+2003,1.306629325,1.54960289,1.19849298,Normalized sum of N & P,Nutrient input,human activities
+2004,1.819080745,1.85779575,1.50668585,Normalized sum of N & P,Nutrient input,human activities
+2005,1.400373673,1.65513831,1.3040284,Normalized sum of N & P,Nutrient input,human activities
+2006,1.650560536,1.74818615,1.39707621,Normalized sum of N & P,Nutrient input,human activities
+2007,1.387507551,1.55030892,1.19919793,Normalized sum of N & P,Nutrient input,human activities
+2008,1.260177516,1.30483359,0.95369045,Normalized sum of N & P,Nutrient input,human activities
+2009,0.161448816,0.57110422,0.21897062,Normalized sum of N & P,Nutrient input,human activities
+2010,0.560037439,0.72355274,0.34213698,Normalized sum of N & P,Nutrient input,human activities
+1992,0.097698644,NA,NA,Toxicity-weighted index,Organic pollution,human activities
+1993,0.084492936,NA,NA,Toxicity-weighted index,Organic pollution,human activities
+1994,0.095453577,NA,NA,Toxicity-weighted index,Organic pollution,human activities
+1995,0.081054475,NA,NA,Toxicity-weighted index,Organic pollution,human activities
+1996,0.058525532,NA,NA,Toxicity-weighted index,Organic pollution,human activities
+1997,0.061929506,NA,NA,Toxicity-weighted index,Organic pollution,human activities
+1998,0.067050386,NA,NA,Toxicity-weighted index,Organic pollution,human activities
+1999,0.054167558,NA,NA,Toxicity-weighted index,Organic pollution,human activities
+2000,0.051133153,NA,NA,Toxicity-weighted index,Organic pollution,human activities
+2001,0.049726887,NA,NA,Toxicity-weighted index,Organic pollution,human activities
+2002,0.053791011,NA,NA,Toxicity-weighted index,Organic pollution,human activities
+2003,0.055596719,NA,NA,Toxicity-weighted index,Organic pollution,human activities
+2004,0.075132818,NA,NA,Toxicity-weighted index,Organic pollution,human activities
+2005,0.059295456,NA,NA,Toxicity-weighted index,Organic pollution,human activities
+2006,0.099743135,NA,NA,Toxicity-weighted index,Organic pollution,human activities
+2007,0.049523718,NA,NA,Toxicity-weighted index,Organic pollution,human activities
+2008,0.052384712,NA,NA,Toxicity-weighted index,Organic pollution,human activities
+2009,0.060794618,NA,NA,Toxicity-weighted index,Organic pollution,human activities
+2010,0.048054338,NA,NA,Toxicity-weighted index,Organic pollution,human activities
+1981,503206,NA,NA,Landings (metric tons),Total fisheries landings,human activities
+1982,445805,NA,NA,Landings (metric tons),Total fisheries landings,human activities
+1983,374264,NA,NA,Landings (metric tons),Total fisheries landings,human activities
+1984,366521,NA,NA,Landings (metric tons),Total fisheries landings,human activities
+1985,358288,NA,NA,Landings (metric tons),Total fisheries landings,human activities
+1986,446257,NA,NA,Landings (metric tons),Total fisheries landings,human activities
+1987,483095,NA,NA,Landings (metric tons),Total fisheries landings,human activities
+1988,515418,NA,NA,Landings (metric tons),Total fisheries landings,human activities
+1989,558728,NA,NA,Landings (metric tons),Total fisheries landings,human activities
+1990,483858,NA,NA,Landings (metric tons),Total fisheries landings,human activities
+1991,516621,NA,NA,Landings (metric tons),Total fisheries landings,human activities
+1992,473385,NA,NA,Landings (metric tons),Total fisheries landings,human activities
+1993,407644,NA,NA,Landings (metric tons),Total fisheries landings,human activities
+1994,499819,NA,NA,Landings (metric tons),Total fisheries landings,human activities
+1995,459618,NA,NA,Landings (metric tons),Total fisheries landings,human activities
+1996,520442,NA,NA,Landings (metric tons),Total fisheries landings,human activities
+1997,543751,NA,NA,Landings (metric tons),Total fisheries landings,human activities
+1998,425881,NA,NA,Landings (metric tons),Total fisheries landings,human activities
+1999,518008,NA,NA,Landings (metric tons),Total fisheries landings,human activities
+2000,554261,NA,NA,Landings (metric tons),Total fisheries landings,human activities
+2001,501068,NA,NA,Landings (metric tons),Total fisheries landings,human activities
+2002,460290,NA,NA,Landings (metric tons),Total fisheries landings,human activities
+2003,412542,NA,NA,Landings (metric tons),Total fisheries landings,human activities
+2004,487343,NA,NA,Landings (metric tons),Total fisheries landings,human activities
+2005,530166,NA,NA,Landings (metric tons),Total fisheries landings,human activities
+2006,545543,NA,NA,Landings (metric tons),Total fisheries landings,human activities
+2007,517291,NA,NA,Landings (metric tons),Total fisheries landings,human activities
+2008,501570,NA,NA,Landings (metric tons),Total fisheries landings,human activities
+2009,417443,NA,NA,Landings (metric tons),Total fisheries landings,human activities
+2010,496453,NA,NA,Landings (metric tons),Total fisheries landings,human activities
+2011,542979,NA,NA,Landings (metric tons),Total fisheries landings,human activities
+2012,494334,NA,NA,Landings (metric tons),Total fisheries landings,human activities
+2013,578047,NA,NA,Landings (metric tons),Total fisheries landings,human activities
+2014,564205,NA,NA,Landings (metric tons),Total fisheries landings,human activities
+1948,-0.8563,NA,NA,NOI,NOI summer,oceanographic
+1949,-0.3067,NA,NA,NOI,NOI summer,oceanographic
+1950,0.1473,NA,NA,NOI,NOI summer,oceanographic
+1951,-0.7037,NA,NA,NOI,NOI summer,oceanographic
+1952,0.1703,NA,NA,NOI,NOI summer,oceanographic
+1953,0.688,NA,NA,NOI,NOI summer,oceanographic
+1954,0.9333,NA,NA,NOI,NOI summer,oceanographic
+1955,1.729,NA,NA,NOI,NOI summer,oceanographic
+1956,2.697,NA,NA,NOI,NOI summer,oceanographic
+1957,0.373,NA,NA,NOI,NOI summer,oceanographic
+1958,-0.268,NA,NA,NOI,NOI summer,oceanographic
+1959,-0.7543,NA,NA,NOI,NOI summer,oceanographic
+1960,0.254,NA,NA,NOI,NOI summer,oceanographic
+1961,0.592,NA,NA,NOI,NOI summer,oceanographic
+1962,1.4373,NA,NA,NOI,NOI summer,oceanographic
+1963,0.1847,NA,NA,NOI,NOI summer,oceanographic
+1964,0.8847,NA,NA,NOI,NOI summer,oceanographic
+1965,-1.0707,NA,NA,NOI,NOI summer,oceanographic
+1966,-0.1217,NA,NA,NOI,NOI summer,oceanographic
+1967,0.1523,NA,NA,NOI,NOI summer,oceanographic
+1968,0.9717,NA,NA,NOI,NOI summer,oceanographic
+1969,-0.8303,NA,NA,NOI,NOI summer,oceanographic
+1970,0.056,NA,NA,NOI,NOI summer,oceanographic
+1971,0.3947,NA,NA,NOI,NOI summer,oceanographic
+1972,-1.5263,NA,NA,NOI,NOI summer,oceanographic
+1973,1.7363,NA,NA,NOI,NOI summer,oceanographic
+1974,0.4227,NA,NA,NOI,NOI summer,oceanographic
+1975,1.6897,NA,NA,NOI,NOI summer,oceanographic
+1976,-0.842,NA,NA,NOI,NOI summer,oceanographic
+1977,-0.2873,NA,NA,NOI,NOI summer,oceanographic
+1978,2.119,NA,NA,NOI,NOI summer,oceanographic
+1979,-0.4313,NA,NA,NOI,NOI summer,oceanographic
+1980,-0.0557,NA,NA,NOI,NOI summer,oceanographic
+1981,0.3773,NA,NA,NOI,NOI summer,oceanographic
+1982,-1.526,NA,NA,NOI,NOI summer,oceanographic
+1983,-0.045,NA,NA,NOI,NOI summer,oceanographic
+1984,0.46,NA,NA,NOI,NOI summer,oceanographic
+1985,-0.558,NA,NA,NOI,NOI summer,oceanographic
+1986,0.672,NA,NA,NOI,NOI summer,oceanographic
+1987,-2.1423,NA,NA,NOI,NOI summer,oceanographic
+1988,-0.6613,NA,NA,NOI,NOI summer,oceanographic
+1989,0.5877,NA,NA,NOI,NOI summer,oceanographic
+1990,-0.8837,NA,NA,NOI,NOI summer,oceanographic
+1991,-0.5437,NA,NA,NOI,NOI summer,oceanographic
+1992,-1.2657,NA,NA,NOI,NOI summer,oceanographic
+1993,-1.262,NA,NA,NOI,NOI summer,oceanographic
+1994,-0.236,NA,NA,NOI,NOI summer,oceanographic
+1995,-1.051,NA,NA,NOI,NOI summer,oceanographic
+1996,0.8093,NA,NA,NOI,NOI summer,oceanographic
+1997,-2.3207,NA,NA,NOI,NOI summer,oceanographic
+1998,1.262,NA,NA,NOI,NOI summer,oceanographic
+1999,-0.6877,NA,NA,NOI,NOI summer,oceanographic
+2000,0.193,NA,NA,NOI,NOI summer,oceanographic
+2001,0.6437,NA,NA,NOI,NOI summer,oceanographic
+2002,-0.5843,NA,NA,NOI,NOI summer,oceanographic
+2003,-0.613,NA,NA,NOI,NOI summer,oceanographic
+2004,-0.4273,NA,NA,NOI,NOI summer,oceanographic
+2005,0.025,NA,NA,NOI,NOI summer,oceanographic
+2006,-0.513,NA,NA,NOI,NOI summer,oceanographic
+2007,0.0273,NA,NA,NOI,NOI summer,oceanographic
+2008,-0.517,NA,NA,NOI,NOI summer,oceanographic
+2009,-0.814,NA,NA,NOI,NOI summer,oceanographic
+2010,1.0523,NA,NA,NOI,NOI summer,oceanographic
+2011,-0.0973,NA,NA,NOI,NOI summer,oceanographic
+2012,0.2397,NA,NA,NOI,NOI summer,oceanographic
+2013,0.1113,NA,NA,NOI,NOI summer,oceanographic
+2014,-0.664333333,NA,NA,NOI,NOI summer,oceanographic
+1948,1.593,NA,NA,NOI,NOI winter,oceanographic
+1949,2.784,NA,NA,NOI,NOI winter,oceanographic
+1950,2.604,NA,NA,NOI,NOI winter,oceanographic
+1951,2.561,NA,NA,NOI,NOI winter,oceanographic
+1952,0.8173,NA,NA,NOI,NOI winter,oceanographic
+1953,3.9837,NA,NA,NOI,NOI winter,oceanographic
+1954,0.0993,NA,NA,NOI,NOI winter,oceanographic
+1955,4.7923,NA,NA,NOI,NOI winter,oceanographic
+1956,2.7083,NA,NA,NOI,NOI winter,oceanographic
+1957,-1.028,NA,NA,NOI,NOI winter,oceanographic
+1958,-6.4477,NA,NA,NOI,NOI winter,oceanographic
+1959,0.783,NA,NA,NOI,NOI winter,oceanographic
+1960,0.7963,NA,NA,NOI,NOI winter,oceanographic
+1961,1.6153,NA,NA,NOI,NOI winter,oceanographic
+1962,0.7537,NA,NA,NOI,NOI winter,oceanographic
+1963,0.343,NA,NA,NOI,NOI winter,oceanographic
+1964,4.5667,NA,NA,NOI,NOI winter,oceanographic
+1965,2.2957,NA,NA,NOI,NOI winter,oceanographic
+1966,0.2483,NA,NA,NOI,NOI winter,oceanographic
+1967,2.646,NA,NA,NOI,NOI winter,oceanographic
+1968,-0.8413,NA,NA,NOI,NOI winter,oceanographic
+1969,-3.3083,NA,NA,NOI,NOI winter,oceanographic
+1970,-2.2943,NA,NA,NOI,NOI winter,oceanographic
+1971,5.415,NA,NA,NOI,NOI winter,oceanographic
+1972,2.475,NA,NA,NOI,NOI winter,oceanographic
+1973,-2.631,NA,NA,NOI,NOI winter,oceanographic
+1974,1.5743,NA,NA,NOI,NOI winter,oceanographic
+1975,1.2163,NA,NA,NOI,NOI winter,oceanographic
+1976,4.408,NA,NA,NOI,NOI winter,oceanographic
+1977,3.0997,NA,NA,NOI,NOI winter,oceanographic
+1978,-6.6273,NA,NA,NOI,NOI winter,oceanographic
+1979,-1.6143,NA,NA,NOI,NOI winter,oceanographic
+1980,-4,NA,NA,NOI,NOI winter,oceanographic
+1981,-2.697,NA,NA,NOI,NOI winter,oceanographic
+1982,-1.2353,NA,NA,NOI,NOI winter,oceanographic
+1983,-10.6533,NA,NA,NOI,NOI winter,oceanographic
+1984,2.851,NA,NA,NOI,NOI winter,oceanographic
+1985,3.5633,NA,NA,NOI,NOI winter,oceanographic
+1986,-3.6173,NA,NA,NOI,NOI winter,oceanographic
+1987,-2.4053,NA,NA,NOI,NOI winter,oceanographic
+1988,3.4377,NA,NA,NOI,NOI winter,oceanographic
+1989,3.3273,NA,NA,NOI,NOI winter,oceanographic
+1990,1.5797,NA,NA,NOI,NOI winter,oceanographic
+1991,-1.199,NA,NA,NOI,NOI winter,oceanographic
+1992,-6.9657,NA,NA,NOI,NOI winter,oceanographic
+1993,-5.4697,NA,NA,NOI,NOI winter,oceanographic
+1994,-0.1207,NA,NA,NOI,NOI winter,oceanographic
+1995,-6.339,NA,NA,NOI,NOI winter,oceanographic
+1996,-1.3007,NA,NA,NOI,NOI winter,oceanographic
+1997,1.866,NA,NA,NOI,NOI winter,oceanographic
+1998,-7.5413,NA,NA,NOI,NOI winter,oceanographic
+1999,2.766,NA,NA,NOI,NOI winter,oceanographic
+2000,-0.2463,NA,NA,NOI,NOI winter,oceanographic
+2001,1.392,NA,NA,NOI,NOI winter,oceanographic
+2002,2.4847,NA,NA,NOI,NOI winter,oceanographic
+2003,-1.0533,NA,NA,NOI,NOI winter,oceanographic
+2004,1.4113,NA,NA,NOI,NOI winter,oceanographic
+2005,-2.5473,NA,NA,NOI,NOI winter,oceanographic
+2006,2.09,NA,NA,NOI,NOI winter,oceanographic
+2007,5.1237,NA,NA,NOI,NOI winter,oceanographic
+2008,5.051,NA,NA,NOI,NOI winter,oceanographic
+2009,3.389,NA,NA,NOI,NOI winter,oceanographic
+2010,-4.8527,NA,NA,NOI,NOI winter,oceanographic
+2011,3.5883,NA,NA,NOI,NOI winter,oceanographic
+2012,2.9177,NA,NA,NOI,NOI winter,oceanographic
+2013,5.5697,NA,NA,NOI,NOI winter,oceanographic
+2014,0.807333333,NA,NA,NOI,NOI winter,oceanographic
+1950,-0.6242,NA,NA,NPGO,NPGO summer,oceanographic
+1951,-1.238,NA,NA,NPGO,NPGO summer,oceanographic
+1952,-1.0686,NA,NA,NPGO,NPGO summer,oceanographic
+1953,0.9055,NA,NA,NPGO,NPGO summer,oceanographic
+1954,0.0039,NA,NA,NPGO,NPGO summer,oceanographic
+1955,0.0569,NA,NA,NPGO,NPGO summer,oceanographic
+1956,0.4916,NA,NA,NPGO,NPGO summer,oceanographic
+1957,-0.9432,NA,NA,NPGO,NPGO summer,oceanographic
+1958,-0.7406,NA,NA,NPGO,NPGO summer,oceanographic
+1959,-0.4247,NA,NA,NPGO,NPGO summer,oceanographic
+1960,0.4867,NA,NA,NPGO,NPGO summer,oceanographic
+1961,1.1131,NA,NA,NPGO,NPGO summer,oceanographic
+1962,-0.2457,NA,NA,NPGO,NPGO summer,oceanographic
+1963,-0.4058,NA,NA,NPGO,NPGO summer,oceanographic
+1964,1.09,NA,NA,NPGO,NPGO summer,oceanographic
+1965,-0.6555,NA,NA,NPGO,NPGO summer,oceanographic
+1966,-1.1185,NA,NA,NPGO,NPGO summer,oceanographic
+1967,-1.0598,NA,NA,NPGO,NPGO summer,oceanographic
+1968,-1.0064,NA,NA,NPGO,NPGO summer,oceanographic
+1969,-0.5796,NA,NA,NPGO,NPGO summer,oceanographic
+1970,0.3522,NA,NA,NPGO,NPGO summer,oceanographic
+1971,0.6365,NA,NA,NPGO,NPGO summer,oceanographic
+1972,-0.5036,NA,NA,NPGO,NPGO summer,oceanographic
+1973,0.3351,NA,NA,NPGO,NPGO summer,oceanographic
+1974,0.2858,NA,NA,NPGO,NPGO summer,oceanographic
+1975,0.6649,NA,NA,NPGO,NPGO summer,oceanographic
+1976,2.2568,NA,NA,NPGO,NPGO summer,oceanographic
+1977,1.0818,NA,NA,NPGO,NPGO summer,oceanographic
+1978,0.558,NA,NA,NPGO,NPGO summer,oceanographic
+1979,-1.074,NA,NA,NPGO,NPGO summer,oceanographic
+1980,-0.9188,NA,NA,NPGO,NPGO summer,oceanographic
+1981,-0.405,NA,NA,NPGO,NPGO summer,oceanographic
+1982,-0.6384,NA,NA,NPGO,NPGO summer,oceanographic
+1983,-0.0452,NA,NA,NPGO,NPGO summer,oceanographic
+1984,0.5072,NA,NA,NPGO,NPGO summer,oceanographic
+1985,-0.033,NA,NA,NPGO,NPGO summer,oceanographic
+1986,-0.8752,NA,NA,NPGO,NPGO summer,oceanographic
+1987,0.3867,NA,NA,NPGO,NPGO summer,oceanographic
+1988,1.6201,NA,NA,NPGO,NPGO summer,oceanographic
+1989,0.8177,NA,NA,NPGO,NPGO summer,oceanographic
+1990,-0.218,NA,NA,NPGO,NPGO summer,oceanographic
+1991,-0.4804,NA,NA,NPGO,NPGO summer,oceanographic
+1992,-1.3535,NA,NA,NPGO,NPGO summer,oceanographic
+1993,-1.625,NA,NA,NPGO,NPGO summer,oceanographic
+1994,-0.7272,NA,NA,NPGO,NPGO summer,oceanographic
+1995,-1.1845,NA,NA,NPGO,NPGO summer,oceanographic
+1996,-0.8975,NA,NA,NPGO,NPGO summer,oceanographic
+1997,-0.8322,NA,NA,NPGO,NPGO summer,oceanographic
+1998,0.2616,NA,NA,NPGO,NPGO summer,oceanographic
+1999,1.5733,NA,NA,NPGO,NPGO summer,oceanographic
+2000,1.7032,NA,NA,NPGO,NPGO summer,oceanographic
+2001,1.9216,NA,NA,NPGO,NPGO summer,oceanographic
+2002,1.2665,NA,NA,NPGO,NPGO summer,oceanographic
+2003,0.9208,NA,NA,NPGO,NPGO summer,oceanographic
+2004,0.6245,NA,NA,NPGO,NPGO summer,oceanographic
+2005,-1.3784,NA,NA,NPGO,NPGO summer,oceanographic
+2006,-0.3096,NA,NA,NPGO,NPGO summer,oceanographic
+2007,1.2009,NA,NA,NPGO,NPGO summer,oceanographic
+2008,1.5153,NA,NA,NPGO,NPGO summer,oceanographic
+2009,0.4328,NA,NA,NPGO,NPGO summer,oceanographic
+2010,1.0141,NA,NA,NPGO,NPGO summer,oceanographic
+2011,0.9686,NA,NA,NPGO,NPGO summer,oceanographic
+2012,1.7692,NA,NA,NPGO,NPGO summer,oceanographic
+2013,0.7781,NA,NA,NPGO,NPGO summer,oceanographic
+2014,-0.365,NA,NA,NPGO,NPGO summer,oceanographic
+1950,-1.5331,NA,NA,NPGO,NPGO winter,oceanographic
+1951,-0.4873,NA,NA,NPGO,NPGO winter,oceanographic
+1952,-1.0319,NA,NA,NPGO,NPGO winter,oceanographic
+1953,0.9698,NA,NA,NPGO,NPGO winter,oceanographic
+1954,0.7766,NA,NA,NPGO,NPGO winter,oceanographic
+1955,-0.0463,NA,NA,NPGO,NPGO winter,oceanographic
+1956,0.0018,NA,NA,NPGO,NPGO winter,oceanographic
+1957,-1.5232,NA,NA,NPGO,NPGO winter,oceanographic
+1958,-0.2962,NA,NA,NPGO,NPGO winter,oceanographic
+1959,-0.2866,NA,NA,NPGO,NPGO winter,oceanographic
+1960,0.8994,NA,NA,NPGO,NPGO winter,oceanographic
+1961,1.404,NA,NA,NPGO,NPGO winter,oceanographic
+1962,-0.1942,NA,NA,NPGO,NPGO winter,oceanographic
+1963,-0.7298,NA,NA,NPGO,NPGO winter,oceanographic
+1964,0.5723,NA,NA,NPGO,NPGO winter,oceanographic
+1965,-0.7965,NA,NA,NPGO,NPGO winter,oceanographic
+1966,-0.6789,NA,NA,NPGO,NPGO winter,oceanographic
+1967,-0.8218,NA,NA,NPGO,NPGO winter,oceanographic
+1968,-0.6747,NA,NA,NPGO,NPGO winter,oceanographic
+1969,-1.3433,NA,NA,NPGO,NPGO winter,oceanographic
+1970,-0.3085,NA,NA,NPGO,NPGO winter,oceanographic
+1971,0.104,NA,NA,NPGO,NPGO winter,oceanographic
+1972,-0.5444,NA,NA,NPGO,NPGO winter,oceanographic
+1973,-0.208,NA,NA,NPGO,NPGO winter,oceanographic
+1974,-0.472,NA,NA,NPGO,NPGO winter,oceanographic
+1975,0.7798,NA,NA,NPGO,NPGO winter,oceanographic
+1976,1.3137,NA,NA,NPGO,NPGO winter,oceanographic
+1977,1.6518,NA,NA,NPGO,NPGO winter,oceanographic
+1978,1.0253,NA,NA,NPGO,NPGO winter,oceanographic
+1979,-0.459,NA,NA,NPGO,NPGO winter,oceanographic
+1980,-1.5921,NA,NA,NPGO,NPGO winter,oceanographic
+1981,-0.6709,NA,NA,NPGO,NPGO winter,oceanographic
+1982,-0.5647,NA,NA,NPGO,NPGO winter,oceanographic
+1983,0.503,NA,NA,NPGO,NPGO winter,oceanographic
+1984,0.3016,NA,NA,NPGO,NPGO winter,oceanographic
+1985,0.1636,NA,NA,NPGO,NPGO winter,oceanographic
+1986,-0.8947,NA,NA,NPGO,NPGO winter,oceanographic
+1987,0.5799,NA,NA,NPGO,NPGO winter,oceanographic
+1988,0.9567,NA,NA,NPGO,NPGO winter,oceanographic
+1989,0.9679,NA,NA,NPGO,NPGO winter,oceanographic
+1990,0.2138,NA,NA,NPGO,NPGO winter,oceanographic
+1991,-0.6186,NA,NA,NPGO,NPGO winter,oceanographic
+1992,-0.2614,NA,NA,NPGO,NPGO winter,oceanographic
+1993,-2.2332,NA,NA,NPGO,NPGO winter,oceanographic
+1994,-1.8962,NA,NA,NPGO,NPGO winter,oceanographic
+1995,-1.3715,NA,NA,NPGO,NPGO winter,oceanographic
+1996,-0.9469,NA,NA,NPGO,NPGO winter,oceanographic
+1997,-1.1238,NA,NA,NPGO,NPGO winter,oceanographic
+1998,1.1071,NA,NA,NPGO,NPGO winter,oceanographic
+1999,1.7871,NA,NA,NPGO,NPGO winter,oceanographic
+2000,1.8924,NA,NA,NPGO,NPGO winter,oceanographic
+2001,2.7356,NA,NA,NPGO,NPGO winter,oceanographic
+2002,1.9799,NA,NA,NPGO,NPGO winter,oceanographic
+2003,1.4842,NA,NA,NPGO,NPGO winter,oceanographic
+2004,0.4384,NA,NA,NPGO,NPGO winter,oceanographic
+2005,-1.404,NA,NA,NPGO,NPGO winter,oceanographic
+2006,-0.6106,NA,NA,NPGO,NPGO winter,oceanographic
+2007,-0.2386,NA,NA,NPGO,NPGO winter,oceanographic
+2008,1.1664,NA,NA,NPGO,NPGO winter,oceanographic
+2009,0.6912,NA,NA,NPGO,NPGO winter,oceanographic
+2010,1.9904,NA,NA,NPGO,NPGO winter,oceanographic
+2011,0.7541,NA,NA,NPGO,NPGO winter,oceanographic
+2012,1.0859,NA,NA,NPGO,NPGO winter,oceanographic
+2013,1.1245,NA,NA,NPGO,NPGO winter,oceanographic
+2014,-0.3703,NA,NA,NPGO,NPGO winter,oceanographic
+1900,0.58,NA,NA,PDO,PDO summer,oceanographic
+1901,-0.6167,NA,NA,PDO,PDO summer,oceanographic
+1902,1.2233,NA,NA,PDO,PDO summer,oceanographic
+1903,0.5467,NA,NA,PDO,PDO summer,oceanographic
+1904,-1.25,NA,NA,PDO,PDO summer,oceanographic
+1905,0.9333,NA,NA,PDO,PDO summer,oceanographic
+1906,0.2667,NA,NA,PDO,PDO summer,oceanographic
+1907,0.08,NA,NA,PDO,PDO summer,oceanographic
+1908,-0.01,NA,NA,PDO,PDO summer,oceanographic
+1909,-0.57,NA,NA,PDO,PDO summer,oceanographic
+1910,-0.1033,NA,NA,PDO,PDO summer,oceanographic
+1911,0.31,NA,NA,PDO,PDO summer,oceanographic
+1912,0.3333,NA,NA,PDO,PDO summer,oceanographic
+1913,1.26,NA,NA,PDO,PDO summer,oceanographic
+1914,0.0033,NA,NA,PDO,PDO summer,oceanographic
+1915,0.7767,NA,NA,PDO,PDO summer,oceanographic
+1916,-0.7767,NA,NA,PDO,PDO summer,oceanographic
+1917,-0.05,NA,NA,PDO,PDO summer,oceanographic
+1918,0.2467,NA,NA,PDO,PDO summer,oceanographic
+1919,-0.2667,NA,NA,PDO,PDO summer,oceanographic
+1920,-1.47,NA,NA,PDO,PDO summer,oceanographic
+1921,-0.29,NA,NA,PDO,PDO summer,oceanographic
+1922,-0.93,NA,NA,PDO,PDO summer,oceanographic
+1923,0.8933,NA,NA,PDO,PDO summer,oceanographic
+1924,-0.1567,NA,NA,PDO,PDO summer,oceanographic
+1925,-0.6667,NA,NA,PDO,PDO summer,oceanographic
+1926,1.5733,NA,NA,PDO,PDO summer,oceanographic
+1927,-0.1167,NA,NA,PDO,PDO summer,oceanographic
+1928,-0.09,NA,NA,PDO,PDO summer,oceanographic
+1929,-0.0833,NA,NA,PDO,PDO summer,oceanographic
+1930,-0.1333,NA,NA,PDO,PDO summer,oceanographic
+1931,0.6333,NA,NA,PDO,PDO summer,oceanographic
+1932,-0.0533,NA,NA,PDO,PDO summer,oceanographic
+1933,-1.35,NA,NA,PDO,PDO summer,oceanographic
+1934,0.83,NA,NA,PDO,PDO summer,oceanographic
+1935,0.9,NA,NA,PDO,PDO summer,oceanographic
+1936,2.2167,NA,NA,PDO,PDO summer,oceanographic
+1937,0.5033,NA,NA,PDO,PDO summer,oceanographic
+1938,-0.2867,NA,NA,PDO,PDO summer,oceanographic
+1939,0.03,NA,NA,PDO,PDO summer,oceanographic
+1940,1.9833,NA,NA,PDO,PDO summer,oceanographic
+1941,2.8833,NA,NA,PDO,PDO summer,oceanographic
+1942,0.5833,NA,NA,PDO,PDO summer,oceanographic
+1943,-0.1933,NA,NA,PDO,PDO summer,oceanographic
+1944,-0.63,NA,NA,PDO,PDO summer,oceanographic
+1945,0.5867,NA,NA,PDO,PDO summer,oceanographic
+1946,-0.6867,NA,NA,PDO,PDO summer,oceanographic
+1947,0.6067,NA,NA,PDO,PDO summer,oceanographic
+1948,-0.8,NA,NA,PDO,PDO summer,oceanographic
+1949,-0.8533,NA,NA,PDO,PDO summer,oceanographic
+1950,-1.8,NA,NA,PDO,PDO summer,oceanographic
+1951,-0.5867,NA,NA,PDO,PDO summer,oceanographic
+1952,-1.0933,NA,NA,PDO,PDO summer,oceanographic
+1953,0.36,NA,NA,PDO,PDO summer,oceanographic
+1954,0.4933,NA,NA,PDO,PDO summer,oceanographic
+1955,-2.3467,NA,NA,PDO,PDO summer,oceanographic
+1956,-1.2967,NA,NA,PDO,PDO summer,oceanographic
+1957,0.9967,NA,NA,PDO,PDO summer,oceanographic
+1958,1.0933,NA,NA,PDO,PDO summer,oceanographic
+1959,-0.2267,NA,NA,PDO,PDO summer,oceanographic
+1960,-0.0033,NA,NA,PDO,PDO summer,oceanographic
+1961,-0.9867,NA,NA,PDO,PDO summer,oceanographic
+1962,-1.1867,NA,NA,PDO,PDO summer,oceanographic
+1963,-0.97,NA,NA,PDO,PDO summer,oceanographic
+1964,-0.62,NA,NA,PDO,PDO summer,oceanographic
+1965,-0.3567,NA,NA,PDO,PDO summer,oceanographic
+1966,0.0233,NA,NA,PDO,PDO summer,oceanographic
+1967,-1.0967,NA,NA,PDO,PDO summer,oceanographic
+1968,0.1233,NA,NA,PDO,PDO summer,oceanographic
+1969,0.06,NA,NA,PDO,PDO summer,oceanographic
+1970,-0.75,NA,NA,PDO,PDO summer,oceanographic
+1971,-1.3,NA,NA,PDO,PDO summer,oceanographic
+1972,-0.8167,NA,NA,PDO,PDO summer,oceanographic
+1973,-0.8933,NA,NA,PDO,PDO summer,oceanographic
+1974,-0.04,NA,NA,PDO,PDO summer,oceanographic
+1975,-0.8767,NA,NA,PDO,PDO summer,oceanographic
+1976,0.4067,NA,NA,PDO,PDO summer,oceanographic
+1977,0.4167,NA,NA,PDO,PDO summer,oceanographic
+1978,-0.55,NA,NA,PDO,PDO summer,oceanographic
+1979,0.51,NA,NA,PDO,PDO summer,oceanographic
+1980,0.1733,NA,NA,PDO,PDO summer,oceanographic
+1981,0.9033,NA,NA,PDO,PDO summer,oceanographic
+1982,0.0633,NA,NA,PDO,PDO summer,oceanographic
+1983,2.5733,NA,NA,PDO,PDO summer,oceanographic
+1984,-0.01,NA,NA,PDO,PDO summer,oceanographic
+1985,0.6867,NA,NA,PDO,PDO summer,oceanographic
+1986,0.83,NA,NA,PDO,PDO summer,oceanographic
+1987,1.8567,NA,NA,PDO,PDO summer,oceanographic
+1988,0.5233,NA,NA,PDO,PDO summer,oceanographic
+1989,0.4267,NA,NA,PDO,PDO summer,oceanographic
+1990,0.2733,NA,NA,PDO,PDO summer,oceanographic
+1991,-0.4033,NA,NA,PDO,PDO summer,oceanographic
+1992,1.5333,NA,NA,PDO,PDO summer,oceanographic
+1993,2.46,NA,NA,PDO,PDO summer,oceanographic
+1994,-0.09,NA,NA,PDO,PDO summer,oceanographic
+1995,1.0633,NA,NA,PDO,PDO summer,oceanographic
+1996,0.5767,NA,NA,PDO,PDO summer,oceanographic
+1997,2.6333,NA,NA,PDO,PDO summer,oceanographic
+1998,0.0467,NA,NA,PDO,PDO summer,oceanographic
+1999,-0.9733,NA,NA,PDO,PDO summer,oceanographic
+2000,-0.7633,NA,NA,PDO,PDO summer,oceanographic
+2001,-0.85,NA,NA,PDO,PDO summer,oceanographic
+2002,-0.02,NA,NA,PDO,PDO summer,oceanographic
+2003,0.84,NA,NA,PDO,PDO summer,oceanographic
+2004,0.4433,NA,NA,PDO,PDO summer,oceanographic
+2005,0.6933,NA,NA,PDO,PDO summer,oceanographic
+2006,0.2467,NA,NA,PDO,PDO summer,oceanographic
+2007,0.4567,NA,NA,PDO,PDO summer,oceanographic
+2008,-1.57,NA,NA,PDO,PDO summer,oceanographic
+2009,-0.25,NA,NA,PDO,PDO summer,oceanographic
+2010,-0.8467,NA,NA,PDO,PDO summer,oceanographic
+2011,-1.43,NA,NA,PDO,PDO summer,oceanographic
+2012,-1.44,NA,NA,PDO,PDO summer,oceanographic
+2013,-1.0233,NA,NA,PDO,PDO summer,oceanographic
+2014,0.73,NA,NA,PDO,PDO summer,oceanographic
+1900,0.6167,NA,NA,PDO,PDO winter,oceanographic
+1901,0.34,NA,NA,PDO,PDO winter,oceanographic
+1902,0.96,NA,NA,PDO,PDO winter,oceanographic
+1903,0.1333,NA,NA,PDO,PDO winter,oceanographic
+1904,-0.33,NA,NA,PDO,PDO winter,oceanographic
+1905,0.9833,NA,NA,PDO,PDO winter,oceanographic
+1906,0.9767,NA,NA,PDO,PDO winter,oceanographic
+1907,-0.27,NA,NA,PDO,PDO winter,oceanographic
+1908,1.0167,NA,NA,PDO,PDO winter,oceanographic
+1909,0.5933,NA,NA,PDO,PDO winter,oceanographic
+1910,-0.2567,NA,NA,PDO,PDO winter,oceanographic
+1911,-0.63,NA,NA,PDO,PDO winter,oceanographic
+1912,-0.6633,NA,NA,PDO,PDO winter,oceanographic
+1913,0.1233,NA,NA,PDO,PDO winter,oceanographic
+1914,0.0433,NA,NA,PDO,PDO winter,oceanographic
+1915,-0.4967,NA,NA,PDO,PDO winter,oceanographic
+1916,-0.3133,NA,NA,PDO,PDO winter,oceanographic
+1917,-0.78,NA,NA,PDO,PDO winter,oceanographic
+1918,-0.98,NA,NA,PDO,PDO winter,oceanographic
+1919,-0.0867,NA,NA,PDO,PDO winter,oceanographic
+1920,-0.6333,NA,NA,PDO,PDO winter,oceanographic
+1921,-0.4267,NA,NA,PDO,PDO winter,oceanographic
+1922,0.0933,NA,NA,PDO,PDO winter,oceanographic
+1923,0.4,NA,NA,PDO,PDO winter,oceanographic
+1924,1.05,NA,NA,PDO,PDO winter,oceanographic
+1925,0.0033,NA,NA,PDO,PDO winter,oceanographic
+1926,0.26,NA,NA,PDO,PDO winter,oceanographic
+1927,0.9833,NA,NA,PDO,PDO winter,oceanographic
+1928,0.7567,NA,NA,PDO,PDO winter,oceanographic
+1929,0.6633,NA,NA,PDO,PDO winter,oceanographic
+1930,-0.1733,NA,NA,PDO,PDO winter,oceanographic
+1931,0.9233,NA,NA,PDO,PDO winter,oceanographic
+1932,-0.11,NA,NA,PDO,PDO winter,oceanographic
+1933,0.1533,NA,NA,PDO,PDO winter,oceanographic
+1934,0.73,NA,NA,PDO,PDO winter,oceanographic
+1935,0.5633,NA,NA,PDO,PDO winter,oceanographic
+1936,1.6333,NA,NA,PDO,PDO winter,oceanographic
+1937,-0.0367,NA,NA,PDO,PDO winter,oceanographic
+1938,0.2533,NA,NA,PDO,PDO winter,oceanographic
+1939,0.3467,NA,NA,PDO,PDO winter,oceanographic
+1940,1.8867,NA,NA,PDO,PDO winter,oceanographic
+1941,2.2067,NA,NA,PDO,PDO winter,oceanographic
+1942,0.6967,NA,NA,PDO,PDO winter,oceanographic
+1943,0.0333,NA,NA,PDO,PDO winter,oceanographic
+1944,0.1433,NA,NA,PDO,PDO winter,oceanographic
+1945,-0.24,NA,NA,PDO,PDO winter,oceanographic
+1946,-0.5467,NA,NA,PDO,PDO winter,oceanographic
+1947,0.05,NA,NA,PDO,PDO winter,oceanographic
+1948,-0.2933,NA,NA,PDO,PDO winter,oceanographic
+1949,-2.2033,NA,NA,PDO,PDO winter,oceanographic
+1950,-2.0567,NA,NA,PDO,PDO winter,oceanographic
+1951,-1.5,NA,NA,PDO,PDO winter,oceanographic
+1952,-1.0333,NA,NA,PDO,PDO winter,oceanographic
+1953,-0.5867,NA,NA,PDO,PDO winter,oceanographic
+1954,-1.15,NA,NA,PDO,PDO winter,oceanographic
+1955,-0.86,NA,NA,PDO,PDO winter,oceanographic
+1956,-2.5933,NA,NA,PDO,PDO winter,oceanographic
+1957,-0.8233,NA,NA,PDO,PDO winter,oceanographic
+1958,0.3733,NA,NA,PDO,PDO winter,oceanographic
+1959,-0.23,NA,NA,PDO,PDO winter,oceanographic
+1960,0.2033,NA,NA,PDO,PDO winter,oceanographic
+1961,0.5667,NA,NA,PDO,PDO winter,oceanographic
+1962,-1.2867,NA,NA,PDO,PDO winter,oceanographic
+1963,-0.3433,NA,NA,PDO,PDO winter,oceanographic
+1964,-0.3567,NA,NA,PDO,PDO winter,oceanographic
+1965,-0.7867,NA,NA,PDO,PDO winter,oceanographic
+1966,-0.7133,NA,NA,PDO,PDO winter,oceanographic
+1967,-0.5267,NA,NA,PDO,PDO winter,oceanographic
+1968,-0.5533,NA,NA,PDO,PDO winter,oceanographic
+1969,-0.9033,NA,NA,PDO,PDO winter,oceanographic
+1970,0.79,NA,NA,PDO,PDO winter,oceanographic
+1971,-1.7733,NA,NA,PDO,PDO winter,oceanographic
+1972,-1.97,NA,NA,PDO,PDO winter,oceanographic
+1973,-0.5233,NA,NA,PDO,PDO winter,oceanographic
+1974,-1.2567,NA,NA,PDO,PDO winter,oceanographic
+1975,-0.6867,NA,NA,PDO,PDO winter,oceanographic
+1976,-1.3167,NA,NA,PDO,PDO winter,oceanographic
+1977,1.16,NA,NA,PDO,PDO winter,oceanographic
+1978,1.0433,NA,NA,PDO,PDO winter,oceanographic
+1979,-0.5367,NA,NA,PDO,PDO winter,oceanographic
+1980,0.7667,NA,NA,PDO,PDO winter,oceanographic
+1981,1.0133,NA,NA,PDO,PDO winter,oceanographic
+1982,0.2433,NA,NA,PDO,PDO winter,oceanographic
+1983,1.27,NA,NA,PDO,PDO winter,oceanographic
+1984,1.4933,NA,NA,PDO,PDO winter,oceanographic
+1985,0.9267,NA,NA,PDO,PDO winter,oceanographic
+1986,1.6367,NA,NA,PDO,PDO winter,oceanographic
+1987,1.91,NA,NA,PDO,PDO winter,oceanographic
+1988,1.1967,NA,NA,PDO,PDO winter,oceanographic
+1989,-0.9333,NA,NA,PDO,PDO winter,oceanographic
+1990,-0.5233,NA,NA,PDO,PDO winter,oceanographic
+1991,-1.3167,NA,NA,PDO,PDO winter,oceanographic
+1992,0.3433,NA,NA,PDO,PDO winter,oceanographic
+1993,0.3333,NA,NA,PDO,PDO winter,oceanographic
+1994,0.8667,NA,NA,PDO,PDO winter,oceanographic
+1995,0.24,NA,NA,PDO,PDO winter,oceanographic
+1996,0.7833,NA,NA,PDO,PDO winter,oceanographic
+1997,0.3867,NA,NA,PDO,PDO winter,oceanographic
+1998,1.4667,NA,NA,PDO,PDO winter,oceanographic
+1999,-0.4367,NA,NA,PDO,PDO winter,oceanographic
+2000,-0.8467,NA,NA,PDO,PDO winter,oceanographic
+2001,0.4467,NA,NA,PDO,PDO winter,oceanographic
+2002,-0.2667,NA,NA,PDO,PDO winter,oceanographic
+2003,1.7833,NA,NA,PDO,PDO winter,oceanographic
+2004,0.5067,NA,NA,PDO,PDO winter,oceanographic
+2005,0.87,NA,NA,PDO,PDO winter,oceanographic
+2006,0.58,NA,NA,PDO,PDO winter,oceanographic
+2007,-0.1033,NA,NA,PDO,PDO winter,oceanographic
+2008,-0.8267,NA,NA,PDO,PDO winter,oceanographic
+2009,-1.5133,NA,NA,PDO,PDO winter,oceanographic
+2010,0.6967,NA,NA,PDO,PDO winter,oceanographic
+2011,-0.8133,NA,NA,PDO,PDO winter,oceanographic
+2012,-1.0933,NA,NA,PDO,PDO winter,oceanographic
+2013,-0.3967,NA,NA,PDO,PDO winter,oceanographic
+2014,0.55,NA,NA,PDO,PDO winter,oceanographic
