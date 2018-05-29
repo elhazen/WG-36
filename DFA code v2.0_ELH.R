@@ -1,5 +1,3 @@
-###scp -r /Users/elliotthazen/Dropbox/Documents/R/IEA/IEA-thresholds/data ehazen@161.55.17.4:/home/ehazen/R/IEA/
-
 library(MARSS)
 library(xtable)
 library(reshape2)
