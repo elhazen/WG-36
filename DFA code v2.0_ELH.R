@@ -2,9 +2,6 @@ library(MARSS)
 library(xtable)
 library(reshape2)
 tabledir="~/Dropbox/Documents/R/IEA/IEA-thresholds/data/output"
-#UNIX DIR
-#tabledir="/home/ehazen/R/IEA/data"
-#setwd("C:\\Users\\Kelly.Andrews\\Desktop\\Reference points workshop\\analyses")
 setwd(tabledir)
 
 # prepare the data
