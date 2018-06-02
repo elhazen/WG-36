@@ -10,7 +10,7 @@ set.seed(627)
 # PACKAGES #
 ############
 library(ggplot2)
-library(meboot)
+#library(meboot)
 library(mgcv)
 library(reshape2)
 library(mvtnorm)
@@ -33,21 +33,26 @@ AICc <- function(mod) {
 
 
 ######################
-# Make up data frame 
+# Read in coastwide data as data frame 
 ######################
 
-tp_func <- function(x,a=0.01,h=10) {
-  num <- a*x/(1+a*x*h)
-}
+#mydriver <- 0:100
+#myresponse <- sapply(mydriver,tp_func)
+load("CC.CW.redv2.0.RData")
+mydriver <- dat.red1$`NPGO_winter` 
+myresponse <- dat.red1$`N_Cop_Anom_summer`
+year<-dat.red1$year
+#year <- 1950:(1950+length(mydriver)-1)
+#year <- sample(year,replace=FALSE)
+#ts.length<-year
 
-mydriver <- 0:100
-myresponse <- sapply(mydriver,tp_func)
-year <- 1950:(1950+length(mydriver)-1)
-year <- sample(year,replace=FALSE)
+havedata<-which(!is.na(mydriver)&!is.na(myresponse))
+
+mydriver<-mydriver[havedata]
+myresponse<-myresponse[havedata]
+year<-year[havedata]
 ts.length<-year
-
-
-myresponse<-myresponse + rnorm(length(myresponse),0,0.025)
+#myresponse<-myresponse + rnorm(length(myresponse),0,0.025)
 plot(mydriver,myresponse)
 
 
@@ -283,8 +288,10 @@ pick.gam <- which(allSummary$best.model=="yes" & allSummary$MODEL=="GAM")
   # dependence structure of the original series in the resampling process (Kirk & Stumpf 2009)
   
   
-  respboot <- meboot(myresponse, reps = nb, trim = 0.1)$ens 
-  drivboot <- meboot(mydriver, reps = nb, trim = 0.1)$ens
+  #respboot <- meboot(myresponse, reps = nb, trim = 0.1)$ens 
+  #drivboot <- meboot(mydriver, reps = nb, trim = 0.1)$ens
+  respboot <- matrix(NA,ncol=nb,nrow=length(year))
+  drivboot <- matrix(NA,ncol=nb,nrow=length(year))
   resids <- myresponse-gam1$fitted
   
   
@@ -426,7 +433,7 @@ pick.gam <- which(allSummary$best.model=="yes" & allSummary$MODEL=="GAM")
   # Will make a plot in your "figures directory"
   
   #set your desktop 
-  setwd("~/Desktop")
+  #setwd("~/Desktop")
   png("driver_response.png",width = 5, height = 3, units = "in", res = 600)
   
   #########################################
@@ -520,7 +527,7 @@ pick.gam <- which(allSummary$best.model=="yes" & allSummary$MODEL=="GAM")
   #        respect = F)
   #
   
-  setwd("~/Desktop")
+  #setwd("~/Desktop")
   png("driver_derivatives.png",width = 3, height = 8, units = "in", res = 600)
   
   
@@ -851,4 +858,4 @@ pick.gam <- which(allSummary$best.model=="yes" & allSummary$MODEL=="GAM")
 write.csv(allMagnitude,"magnitude of threshold.gam.csv",row.names=F)
 
 
-} #end of test loop
+#} #end of test loop
