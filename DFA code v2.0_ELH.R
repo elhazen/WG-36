@@ -1,12 +1,12 @@
 library(MARSS)
 library(xtable)
 library(reshape2)
-tabledir="~/Dropbox/Documents/R/IEA/IEA-thresholds/data/output"
-setwd(tabledir)
+#tabledir="~/Dropbox/Documents/R/IEA/IEA-thresholds/data/output"
+#setwd(tabledir)
 
 # prepare the data
 
-ccALL<-read.csv("~/Dropbox/Documents/R/IEA/IEA-thresholds/data/coastwide data for reference points.csv")
+ccALL<-read.csv("coastwide data for reference points.csv")
 
 ccALL$year <- as.numeric(ccALL$year)
 ccALL$timeseries <- gsub("\\(", "", ccALL$timeseries)
