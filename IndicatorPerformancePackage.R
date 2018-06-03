@@ -5,6 +5,25 @@ library(INDperform)
 
 # load the CC data
 load("CC.CW.redv2.0.RData")
+data.full<-dat.red1
+
+#remove NAs
+dat.red1<-na.omit(dat.red1)
+
+envind<-c(12:15,17,18)
+humind<-c(3,4,5,9,16)
+ecosysind<-c(2,6,7,8,10,11,19)
+cantcontrolind<-c(3,13,17,18)
+
+envind<-c(grep("NOI",names(dat.red1)),grep("NPGO",names(dat.red1)),grep("PDO",names(dat.red1)))
+ecosysind<-c(grep("lion",names(dat.red1)),grep("GF",names(dat.red1)),grep("Scav",names(dat.red1)),grep("Cop",names(dat.red1)))
+humind<-c(grep("Commercial",names(dat.red1)),grep("Coastal",names(dat.red1)),grep("pollution",names(dat.red1)),grep("Nutrient",names(dat.red1)),grep("landings",names(dat.red1)),grep("Dredging",names(dat.red1)),grep("Habitat",names(dat.red1)))
+
+ind_ex <- dat.red1[,ecosysind]
+press_ex <- dat.red1[,c(envind,humind)]
+press_type_ex <- c(1:dim(press_ex)[2])
+press_type_ex[envind]<-"Climate"
+press_type_ex[humind]<-"Human"
 
 # Using the demo data
 head(ind_ex)
@@ -16,8 +35,8 @@ crit_scores_tmpl
 
 # Trend modelling -------------
 
-m_trend <- model_trend(ind_tbl = ind_ex[ ,-1],
-                       time = ind_ex$Year)
+m_trend <- model_trend(ind_tbl = ind_ex,
+                       time = dat.red1$year)
 # Model diagnostics
 pd <- plot_diagnostics(model_list = m_trend$model)
 pd$all_plots[[1]] # first indicator
@@ -29,8 +48,8 @@ pt$TZA # shows trend of TZA indicator
 # Indicator response modelling ------------
 
 ### Initialize data (combining IND with pressures)
-dat_init <- ind_init(ind_tbl = ind_ex[ ,-1],
-                     press_tbl = press_ex[ ,-1], time = ind_ex$Year)
+dat_init <- ind_init(ind_tbl = ind_ex,
+                     press_tbl = press_ex, time = dat.red1$year)
 
 ### Model responses
 m_gam <- model_gam(init_tbl = dat_init)
