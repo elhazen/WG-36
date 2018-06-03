@@ -22,8 +22,8 @@
 devtools::install_github("slarge/extendedForest")
 devtools::install_github("slarge/gradientForest")
 
-library(gradientForest)
 library(extendedForest)
+library(gradientForest)
 library(dplyr)
 library(tidyr)
 library(ggplot2)
@@ -106,6 +106,8 @@ gf <- gradientForest(data = dat,
                      compact = F,
                      trace = T)
 #
+plot(gf)
+library(reshape2)
 save(gf, file = paste0(dump.dir, "CCE-gf_v01.RDATA"))
 #
 ##########################
