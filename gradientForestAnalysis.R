@@ -38,7 +38,8 @@ source("pcaBiplotFunction.R")
 # Load data #
 #############
 set.seed(627)
-cc <- read.csv(url("https://raw.githubusercontent.com/elhazen/WG-36/master/coastwide%20data%20for%20reference%20points.csv?token=AExLwws5Bzx_zB2LKe8mpArxwzKOEI1eks5bFtu2wA%3D%3D"))
+#cc <- read.csv(url("https://raw.githubusercontent.com/elhazen/WG-36/master/coastwide%20data%20for%20reference%20points.csv?token=AExLwws5Bzx_zB2LKe8mpArxwzKOEI1eks5bFtu2wA%3D%3D"))
+cc <-read.csv("coastwide data for reference points.csv")
 
 
 # Clean up the timeseries names and spread the df with columns as variables
@@ -164,6 +165,7 @@ modPerformance <- rbind(pressureDF, indicatorDF)
 imp.vars <- names(importance(gf)[importance(gf) > 0])
 #
 # Overall Importance
+figure.dir = "/Users/elliotthazen/Documents/R/github/WG-36/figs/"
 png(file = paste0(figure.dir, "CCE-overallImportance_v01.png"), width = 83, height = 83, units = "mm", res = 600)
 par(mgp = c(.75, 0.05, 0), 
     mar = c(2.75, 6.5, 0.1, .5),

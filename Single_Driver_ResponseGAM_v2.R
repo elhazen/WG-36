@@ -41,6 +41,11 @@ AICc <- function(mod) {
 load("CC.CW.redv2.0.RData")
 mydriver <- dat.red1$`NPGO_winter` 
 myresponse <- dat.red1$`N_Cop_Anom_summer`
+myresponse <- dat.red1$`CA_sea_lion_pup_production`
+
+###Use code below to lag by a year (EXAMPLE)
+myresponse <- lag(myresponse,1)
+
 year<-dat.red1$year
 #year <- 1950:(1950+length(mydriver)-1)
 #year <- sample(year,replace=FALSE)
@@ -528,7 +533,8 @@ pick.gam <- which(allSummary$best.model=="yes" & allSummary$MODEL=="GAM")
   #
   
   #setwd("~/Desktop")
-  png("driver_derivatives.png",width = 3, height = 8, units = "in", res = 600)
+  figure.dir<-"/Users/elliotthazen/Documents/R/github/WG-36/figs/"
+  png(paste0(figure.dir,"driver_derivatives.png"),width = 3, height = 8, units = "in", res = 600)
   
   
   #########################################
