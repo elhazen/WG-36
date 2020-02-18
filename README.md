@@ -14,3 +14,5 @@ Updates:
 5/29/18 - adding Samhouri et al. 2017 EcoSphere code for DFA time series trends - https://people.ucsc.edu/~elhazen/hazen/Publications_files/Samhouri_et_al-2017-Ecosphere.pdf
 
 6/3/18 - added additional code from Large et al. 2015 - MEPS and Saskio et al. 2018 - Ecol Indicators and updated this ReadMe.
+
+2/18/20 - Saskia: run of INDperform analysis to certain extent -> needs further discussion on a) dealing with temporal autocorrelation (difficult to identify as well as handle since time series is so short) and b) choice of threshold variable and interaction testing (all combinations lead to 1890 models to test for) --> see also my comments in the R script.
